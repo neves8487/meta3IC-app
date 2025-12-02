@@ -3,6 +3,7 @@ uvicorn
 tensorflow
 opencv-python-headless
 numpy
-
+scikit-learn
 streamlit
+
 
