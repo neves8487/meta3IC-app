@@ -3,5 +3,6 @@ uvicorn
 tensorflow
 opencv-python-headless
 numpy
-pickle
+
 streamlit
+
